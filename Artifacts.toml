@@ -1,252 +1,252 @@
 [[lib4ti2]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "1295a779e3db28baa54383973ad8a19c49f87ac4"
+git-tree-sha1 = "9c02d8af28f2bd28ddab7faed51396327bc0afab"
 libc = "musl"
 os = "linux"
 
     [[lib4ti2.download]]
-    sha256 = "c7a85a5ad43dfcd6017bb32bfe50069146d258b84b581749f9c95536d2380a42"
-    url = "https://github.com/JuliaBinaryWrappers/lib4ti2_jll.jl/releases/download/lib4ti2-v1.6.9+0/lib4ti2.v1.6.9.aarch64-linux-musl-cxx03.tar.gz"
+    sha256 = "4e740ad1792649c05323c2adada419df417a5564da3a8a3b06b39ddc7c8e228d"
+    url = "https://github.com/JuliaBinaryWrappers/lib4ti2_jll.jl/releases/download/lib4ti2-v1.6.9+1/lib4ti2.v1.6.9.aarch64-linux-musl-cxx03.tar.gz"
 [[lib4ti2]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "d43ef9c14b90af1e526d231c8039cf7a388eac58"
+git-tree-sha1 = "fd0a8cb6aada11b0d6c7d956d7782c4b20a7abee"
 libc = "musl"
 os = "linux"
 
     [[lib4ti2.download]]
-    sha256 = "3307c3c6a9e855b09c3fd7e1e450ebc7525f4f7741632fd113f5fca6edb5a8a8"
-    url = "https://github.com/JuliaBinaryWrappers/lib4ti2_jll.jl/releases/download/lib4ti2-v1.6.9+0/lib4ti2.v1.6.9.aarch64-linux-musl-cxx11.tar.gz"
+    sha256 = "7e04dfc41fb6dbcd8359d70eb889dc125859c8c03c4d43a7ababea7a75e77bb2"
+    url = "https://github.com/JuliaBinaryWrappers/lib4ti2_jll.jl/releases/download/lib4ti2-v1.6.9+1/lib4ti2.v1.6.9.aarch64-linux-musl-cxx11.tar.gz"
 [[lib4ti2]]
 arch = "armv7l"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "b45c4aa325a4b6929d8b2566df8353f627f0b207"
+git-tree-sha1 = "01be3a404aa8bce9a824b5e5b9569d18dada9202"
 libc = "musl"
 os = "linux"
 
     [[lib4ti2.download]]
-    sha256 = "b4e564046fdc91befea902af713152e1bf958a0372cfffbc3ab9c78813380285"
-    url = "https://github.com/JuliaBinaryWrappers/lib4ti2_jll.jl/releases/download/lib4ti2-v1.6.9+0/lib4ti2.v1.6.9.armv7l-linux-musleabihf-cxx03.tar.gz"
+    sha256 = "aac3ccca4318407209abf30f5c406ff54a97e0d96837c3fd5bd209b79ec85497"
+    url = "https://github.com/JuliaBinaryWrappers/lib4ti2_jll.jl/releases/download/lib4ti2-v1.6.9+1/lib4ti2.v1.6.9.armv7l-linux-musleabihf-cxx03.tar.gz"
 [[lib4ti2]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "d4b9727f0d1ca7cb70a81ac9c822763fe170762a"
+git-tree-sha1 = "79783de3dfc5370c551b0171c07257db4d1c2e12"
 os = "windows"
 
     [[lib4ti2.download]]
-    sha256 = "af8dd9192ada748009bdb25b9d77a3f034bbf2f7547c28fffc75c5e374063bad"
-    url = "https://github.com/JuliaBinaryWrappers/lib4ti2_jll.jl/releases/download/lib4ti2-v1.6.9+0/lib4ti2.v1.6.9.x86_64-w64-mingw32-cxx11.tar.gz"
+    sha256 = "8ceea4d25e8ccac98bc71d93bfb28760720b42ca30e7d9eb0dfb5e4ae11539ca"
+    url = "https://github.com/JuliaBinaryWrappers/lib4ti2_jll.jl/releases/download/lib4ti2-v1.6.9+1/lib4ti2.v1.6.9.x86_64-w64-mingw32-cxx11.tar.gz"
 [[lib4ti2]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "37c1cd0b200581a14c6e41270bca426d09d2ab45"
+git-tree-sha1 = "340be0bc067cd5378a02a9aa9f5a51a97a0dbf4b"
 libc = "musl"
 os = "linux"
 
     [[lib4ti2.download]]
-    sha256 = "5fbbcb62bed02939484f2c2eb72ab2533e3749a5305a4c9e5938c0ac66cf8be9"
-    url = "https://github.com/JuliaBinaryWrappers/lib4ti2_jll.jl/releases/download/lib4ti2-v1.6.9+0/lib4ti2.v1.6.9.i686-linux-musl-cxx11.tar.gz"
+    sha256 = "faacc2bda86b2bd54745c60eff208d6a965543fbdec9727108c27e9a76ee0b9a"
+    url = "https://github.com/JuliaBinaryWrappers/lib4ti2_jll.jl/releases/download/lib4ti2-v1.6.9+1/lib4ti2.v1.6.9.i686-linux-musl-cxx11.tar.gz"
 [[lib4ti2]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "14c37441f714a20be96c8623fef15474714c7f0f"
+git-tree-sha1 = "95bdba34ed1d2de29ef18e09a4accce41e78de8a"
 libc = "musl"
 os = "linux"
 
     [[lib4ti2.download]]
-    sha256 = "efd84ec4afb1437047ad612f2e5ace8480f3c616b444ee366c96bd0306efdda6"
-    url = "https://github.com/JuliaBinaryWrappers/lib4ti2_jll.jl/releases/download/lib4ti2-v1.6.9+0/lib4ti2.v1.6.9.x86_64-linux-musl-cxx11.tar.gz"
+    sha256 = "986a1b8d770bcccf9069e1d2b8c06d0215369bb42b6a9ed6184c6e7a3bc01061"
+    url = "https://github.com/JuliaBinaryWrappers/lib4ti2_jll.jl/releases/download/lib4ti2-v1.6.9+1/lib4ti2.v1.6.9.x86_64-linux-musl-cxx11.tar.gz"
 [[lib4ti2]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "c8ea7bbd000c80ba300490783317589739a7a4a5"
+git-tree-sha1 = "49deca148ec3dc89e08fea9772454efc56b278ba"
 libc = "glibc"
 os = "linux"
 
     [[lib4ti2.download]]
-    sha256 = "77d5be7ac5e00b62789dd4975ceafd543625076056a2586d904077d73799e1e1"
-    url = "https://github.com/JuliaBinaryWrappers/lib4ti2_jll.jl/releases/download/lib4ti2-v1.6.9+0/lib4ti2.v1.6.9.x86_64-linux-gnu-cxx03.tar.gz"
+    sha256 = "5d1e821c1d88cd1c44cb45de0a3971ff4949308174ef6ca2b17f3e8465bfc0f2"
+    url = "https://github.com/JuliaBinaryWrappers/lib4ti2_jll.jl/releases/download/lib4ti2-v1.6.9+1/lib4ti2.v1.6.9.x86_64-linux-gnu-cxx03.tar.gz"
 [[lib4ti2]]
 arch = "i686"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "4cf28a83d0aba7ae6266600903df891990460f0b"
+git-tree-sha1 = "2cdeca881837bbd2d0235e5a605e7685d3e0bcaf"
 libc = "glibc"
 os = "linux"
 
     [[lib4ti2.download]]
-    sha256 = "514e48a99b1aad357f3c2fa17fd86a7b03eb68c3960915ec65ad450a393710e0"
-    url = "https://github.com/JuliaBinaryWrappers/lib4ti2_jll.jl/releases/download/lib4ti2-v1.6.9+0/lib4ti2.v1.6.9.i686-linux-gnu-cxx03.tar.gz"
+    sha256 = "6a27d410d9368fa9bf85b19d8d599551d0cf396cb080a490582edb0f76fc45ca"
+    url = "https://github.com/JuliaBinaryWrappers/lib4ti2_jll.jl/releases/download/lib4ti2-v1.6.9+1/lib4ti2.v1.6.9.i686-linux-gnu-cxx03.tar.gz"
 [[lib4ti2]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "d616066a3aab57039993e24569173445d31b3bf6"
+git-tree-sha1 = "6e22504d9cf09ea124dcbb8d03dfbe24c1fb2c75"
 os = "macos"
 
     [[lib4ti2.download]]
-    sha256 = "494f7acb8fd607e50052153e4923dbc266a854c62278fb368f3a123c2edb8a74"
-    url = "https://github.com/JuliaBinaryWrappers/lib4ti2_jll.jl/releases/download/lib4ti2-v1.6.9+0/lib4ti2.v1.6.9.x86_64-apple-darwin14-cxx11.tar.gz"
+    sha256 = "461d0e4028e128bbfe2fa18264401866e98fda98e34b0417d806ccaecca134b8"
+    url = "https://github.com/JuliaBinaryWrappers/lib4ti2_jll.jl/releases/download/lib4ti2-v1.6.9+1/lib4ti2.v1.6.9.x86_64-apple-darwin14-cxx11.tar.gz"
 [[lib4ti2]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "c8810df97df60fc14933ca28c36c35147b4e6e46"
+git-tree-sha1 = "c2ec5892ca464cb2a0321850f3717071cbe950f0"
 libc = "glibc"
 os = "linux"
 
     [[lib4ti2.download]]
-    sha256 = "229df455a6766fd51500b85a9885ac87bc3d4f8696595153c7c56b2bc0835d5e"
-    url = "https://github.com/JuliaBinaryWrappers/lib4ti2_jll.jl/releases/download/lib4ti2-v1.6.9+0/lib4ti2.v1.6.9.i686-linux-gnu-cxx11.tar.gz"
+    sha256 = "1c76c946558e13fee798953289844004a2a844461cc95bcc28c466a6c3637295"
+    url = "https://github.com/JuliaBinaryWrappers/lib4ti2_jll.jl/releases/download/lib4ti2-v1.6.9+1/lib4ti2.v1.6.9.i686-linux-gnu-cxx11.tar.gz"
 [[lib4ti2]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "c996286b5f8adfd6bdf3993d1b0b9513d251e61b"
+git-tree-sha1 = "b327900e9ed46f645369fe1063943fc3d19a6c7a"
 os = "windows"
 
     [[lib4ti2.download]]
-    sha256 = "31c78bac72f7a7ef3deea7d7d862110c2c54557ed13aeadea24393ab472496e9"
-    url = "https://github.com/JuliaBinaryWrappers/lib4ti2_jll.jl/releases/download/lib4ti2-v1.6.9+0/lib4ti2.v1.6.9.x86_64-w64-mingw32-cxx03.tar.gz"
+    sha256 = "b46ef1eb3f42607f7c1b9dd4d5911620316958d641f168b72829d73c1d80fc26"
+    url = "https://github.com/JuliaBinaryWrappers/lib4ti2_jll.jl/releases/download/lib4ti2-v1.6.9+1/lib4ti2.v1.6.9.x86_64-w64-mingw32-cxx03.tar.gz"
 [[lib4ti2]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "553c955dc388c06cf55552b4492f386790b2d55c"
+git-tree-sha1 = "12659962696a028b1c8657f6de30ff2f9e2b2c16"
 libc = "glibc"
 os = "linux"
 
     [[lib4ti2.download]]
-    sha256 = "74186b9c383b48a19de497734fb21472938d70b2a6bc163dbd4442ee091c0fb5"
-    url = "https://github.com/JuliaBinaryWrappers/lib4ti2_jll.jl/releases/download/lib4ti2-v1.6.9+0/lib4ti2.v1.6.9.x86_64-linux-gnu-cxx11.tar.gz"
+    sha256 = "6676fec1b34d7932ac7f5e0b5a294290b3d47794ac5a2f23a41adabed98e2de5"
+    url = "https://github.com/JuliaBinaryWrappers/lib4ti2_jll.jl/releases/download/lib4ti2-v1.6.9+1/lib4ti2.v1.6.9.x86_64-linux-gnu-cxx11.tar.gz"
 [[lib4ti2]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "95ca4da96c62b57f08d6499ff9175d5d73cbe272"
+git-tree-sha1 = "3ac53366a482eb9ba57dd0d8ddcfd652a9bf1c5c"
 libc = "glibc"
 os = "linux"
 
     [[lib4ti2.download]]
-    sha256 = "5d7592c5fc0477949d455596b89b3803baa68b543789096996f602a1c4b09778"
-    url = "https://github.com/JuliaBinaryWrappers/lib4ti2_jll.jl/releases/download/lib4ti2-v1.6.9+0/lib4ti2.v1.6.9.powerpc64le-linux-gnu-cxx11.tar.gz"
+    sha256 = "1f5395d93fb0c2852e1cc40c5a544810bc8af13b1440c31bafd29ba44b67900a"
+    url = "https://github.com/JuliaBinaryWrappers/lib4ti2_jll.jl/releases/download/lib4ti2-v1.6.9+1/lib4ti2.v1.6.9.powerpc64le-linux-gnu-cxx11.tar.gz"
 [[lib4ti2]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "bbafc9e3e3a07ffa3ac892d9f37780cfa201c514"
+git-tree-sha1 = "08624933363b2c5597725c4c4858017249f6b103"
 libc = "glibc"
 os = "linux"
 
     [[lib4ti2.download]]
-    sha256 = "4380d47795f8485c185688e79c724157c023e5f15777aa5f4645b7e874bd48f6"
-    url = "https://github.com/JuliaBinaryWrappers/lib4ti2_jll.jl/releases/download/lib4ti2-v1.6.9+0/lib4ti2.v1.6.9.aarch64-linux-gnu-cxx11.tar.gz"
+    sha256 = "a0db2f06d629ccd6022d4ca3ef4d96f6f9d9aa4a2743917610787ad1c16b8060"
+    url = "https://github.com/JuliaBinaryWrappers/lib4ti2_jll.jl/releases/download/lib4ti2-v1.6.9+1/lib4ti2.v1.6.9.aarch64-linux-gnu-cxx11.tar.gz"
 [[lib4ti2]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "e4d308dc2a0ce2461af8b6b212084a10efedbee3"
+git-tree-sha1 = "fe1f87190e94ea3c023176fc19901c4f4a2f618b"
 libc = "musl"
 os = "linux"
 
     [[lib4ti2.download]]
-    sha256 = "6e7bcc4d49777060ed3f5f7c6a19e0197756bcc822821e8340462183ab8c77ee"
-    url = "https://github.com/JuliaBinaryWrappers/lib4ti2_jll.jl/releases/download/lib4ti2-v1.6.9+0/lib4ti2.v1.6.9.x86_64-linux-musl-cxx03.tar.gz"
+    sha256 = "a394bbec6e5df129951fbed82ce59703bb7ebdf9f33e2116a154b6983f712015"
+    url = "https://github.com/JuliaBinaryWrappers/lib4ti2_jll.jl/releases/download/lib4ti2-v1.6.9+1/lib4ti2.v1.6.9.x86_64-linux-musl-cxx03.tar.gz"
 [[lib4ti2]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "b37f38eddb92e6d96b2f8b7af5dd33e155898fd4"
+git-tree-sha1 = "e2a579a52fe8212b7b5b396796ce289eb532a908"
 os = "macos"
 
     [[lib4ti2.download]]
-    sha256 = "5cac78217d82b8029066fe887e4c77c065c00e9da197b014023557923b51f355"
-    url = "https://github.com/JuliaBinaryWrappers/lib4ti2_jll.jl/releases/download/lib4ti2-v1.6.9+0/lib4ti2.v1.6.9.x86_64-apple-darwin14-cxx03.tar.gz"
+    sha256 = "6f3e069dc4ae533e57bbf9b0e7b2d749548c9be3e395f13e86ff425e6e893e7e"
+    url = "https://github.com/JuliaBinaryWrappers/lib4ti2_jll.jl/releases/download/lib4ti2-v1.6.9+1/lib4ti2.v1.6.9.x86_64-apple-darwin14-cxx03.tar.gz"
 [[lib4ti2]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "2b41f77cdba8a438aada5d1523b21dea669ea062"
+git-tree-sha1 = "a59c95e74905ca629102a37bbb3ab77b18548570"
 os = "freebsd"
 
     [[lib4ti2.download]]
-    sha256 = "98c26279829bc81fd30a3b2ea97b6374304abf229583dabb93fca1f62e173482"
-    url = "https://github.com/JuliaBinaryWrappers/lib4ti2_jll.jl/releases/download/lib4ti2-v1.6.9+0/lib4ti2.v1.6.9.x86_64-unknown-freebsd11.1-cxx03.tar.gz"
+    sha256 = "ef4829bba258e7be1731d5af6e5869a18634af457e8a833a7ea68b6ba49d76f8"
+    url = "https://github.com/JuliaBinaryWrappers/lib4ti2_jll.jl/releases/download/lib4ti2-v1.6.9+1/lib4ti2.v1.6.9.x86_64-unknown-freebsd11.1-cxx03.tar.gz"
 [[lib4ti2]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "99c8292977c008dcd7079aded5f491d9123496e8"
+git-tree-sha1 = "5abf497279b34c038a79a1d246f0b32c99bca450"
 libc = "glibc"
 os = "linux"
 
     [[lib4ti2.download]]
-    sha256 = "9a4aae11d1cec13188bf9f6d9c62640b3e2e0278572bb9158dd048e1bfd1221a"
-    url = "https://github.com/JuliaBinaryWrappers/lib4ti2_jll.jl/releases/download/lib4ti2-v1.6.9+0/lib4ti2.v1.6.9.powerpc64le-linux-gnu-cxx03.tar.gz"
+    sha256 = "01fc963e8a4d73e1144e66543aad8cd4a327692bed25e3121c13e9bd7f715df8"
+    url = "https://github.com/JuliaBinaryWrappers/lib4ti2_jll.jl/releases/download/lib4ti2-v1.6.9+1/lib4ti2.v1.6.9.powerpc64le-linux-gnu-cxx03.tar.gz"
 [[lib4ti2]]
 arch = "i686"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "95207067a689a0ba215b78144bd2f6bdbd82661e"
+git-tree-sha1 = "680f5addc9e98701eb56e1b18686194cc5406d1c"
 os = "windows"
 
     [[lib4ti2.download]]
-    sha256 = "96b6227d11c0bde7d16241b6810589a1e143e76f196a4f5ee1598323993b1051"
-    url = "https://github.com/JuliaBinaryWrappers/lib4ti2_jll.jl/releases/download/lib4ti2-v1.6.9+0/lib4ti2.v1.6.9.i686-w64-mingw32-cxx03.tar.gz"
+    sha256 = "9de8878a8951bbf52c1c52fb1212428111861e055f2a013f411a095b58603dc2"
+    url = "https://github.com/JuliaBinaryWrappers/lib4ti2_jll.jl/releases/download/lib4ti2-v1.6.9+1/lib4ti2.v1.6.9.i686-w64-mingw32-cxx03.tar.gz"
 [[lib4ti2]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "aab8af7938027bab31df7078eae2caa2655404b8"
+git-tree-sha1 = "a59c7fb33f0a118ced693762850cd114d85d437c"
 os = "windows"
 
     [[lib4ti2.download]]
-    sha256 = "46c89a2cfba542a0e7d2596bee2a92802653b75fad365b3b9ad0e764b55c3b95"
-    url = "https://github.com/JuliaBinaryWrappers/lib4ti2_jll.jl/releases/download/lib4ti2-v1.6.9+0/lib4ti2.v1.6.9.i686-w64-mingw32-cxx11.tar.gz"
+    sha256 = "8cd95ce147d93773c11f9db0ef3f36e56200aadd40ec6bc4b0c9147fb0b60041"
+    url = "https://github.com/JuliaBinaryWrappers/lib4ti2_jll.jl/releases/download/lib4ti2-v1.6.9+1/lib4ti2.v1.6.9.i686-w64-mingw32-cxx11.tar.gz"
 [[lib4ti2]]
 arch = "armv7l"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "ec839109f54a4921dba559fd58b39805b4fc65d3"
+git-tree-sha1 = "00ce701464a4113589b8cb615df2404e8e7370dd"
 libc = "musl"
 os = "linux"
 
     [[lib4ti2.download]]
-    sha256 = "3abc2c74331179403e0a1730e41e269499d4d87d18a26b8eafcdc0d840d5f6ec"
-    url = "https://github.com/JuliaBinaryWrappers/lib4ti2_jll.jl/releases/download/lib4ti2-v1.6.9+0/lib4ti2.v1.6.9.armv7l-linux-musleabihf-cxx11.tar.gz"
+    sha256 = "0ca2fed2d36747447740470ada287786f28f130a5f35dec1009723861f6fc172"
+    url = "https://github.com/JuliaBinaryWrappers/lib4ti2_jll.jl/releases/download/lib4ti2-v1.6.9+1/lib4ti2.v1.6.9.armv7l-linux-musleabihf-cxx11.tar.gz"
 [[lib4ti2]]
 arch = "armv7l"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "ca70e4375557012e745e44da841770827c7c58e2"
+git-tree-sha1 = "0862c5d4ee77d8825c84ecda61a0894de1bf5574"
 libc = "glibc"
 os = "linux"
 
     [[lib4ti2.download]]
-    sha256 = "fe7bea3fa5bf586f67278ddbe2d9e7ccd5062f7f5cda3b42cbad3325ca9593d6"
-    url = "https://github.com/JuliaBinaryWrappers/lib4ti2_jll.jl/releases/download/lib4ti2-v1.6.9+0/lib4ti2.v1.6.9.armv7l-linux-gnueabihf-cxx03.tar.gz"
+    sha256 = "cfc9a310ef188986a7a0e196ec3b1dcb47c57e848342a759837cb15454603fce"
+    url = "https://github.com/JuliaBinaryWrappers/lib4ti2_jll.jl/releases/download/lib4ti2-v1.6.9+1/lib4ti2.v1.6.9.armv7l-linux-gnueabihf-cxx03.tar.gz"
 [[lib4ti2]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "21e6847ef46bf7c4f0781c97eacd772387d1b924"
+git-tree-sha1 = "c060398e35a29046cbeb76aa1026ccf1cb237034"
 libc = "glibc"
 os = "linux"
 
     [[lib4ti2.download]]
-    sha256 = "f28fbc83266e2d249d8e226d04ec3d3874b5b2ccb1c44d4fc1744ec600bb75a7"
-    url = "https://github.com/JuliaBinaryWrappers/lib4ti2_jll.jl/releases/download/lib4ti2-v1.6.9+0/lib4ti2.v1.6.9.aarch64-linux-gnu-cxx03.tar.gz"
+    sha256 = "ec697f7e4f38f0ea08001630105080f87e5a5663c649f58a31e8e02a397df959"
+    url = "https://github.com/JuliaBinaryWrappers/lib4ti2_jll.jl/releases/download/lib4ti2-v1.6.9+1/lib4ti2.v1.6.9.aarch64-linux-gnu-cxx03.tar.gz"
 [[lib4ti2]]
 arch = "armv7l"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "c514345cea0f02f44a5a8efcf77ff63f14aeb29f"
+git-tree-sha1 = "01be4bb196ab67064d9580d123e84d27ac896f28"
 libc = "glibc"
 os = "linux"
 
     [[lib4ti2.download]]
-    sha256 = "2a681e9f2a12c467d0ca5d276c87082b6cca383f904d8a21fc005290394b89cc"
-    url = "https://github.com/JuliaBinaryWrappers/lib4ti2_jll.jl/releases/download/lib4ti2-v1.6.9+0/lib4ti2.v1.6.9.armv7l-linux-gnueabihf-cxx11.tar.gz"
+    sha256 = "36a1fc1f60fddd82c3f523353d4b83a5c5744fe495bb6a8cf86149f1b9c23f48"
+    url = "https://github.com/JuliaBinaryWrappers/lib4ti2_jll.jl/releases/download/lib4ti2-v1.6.9+1/lib4ti2.v1.6.9.armv7l-linux-gnueabihf-cxx11.tar.gz"
 [[lib4ti2]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "ad4f393f1c6184a4da843c412d5374d6ad363c2b"
+git-tree-sha1 = "6c3ada4bfc84cc7e9c60e9cb022dfec8ee198ea3"
 os = "freebsd"
 
     [[lib4ti2.download]]
-    sha256 = "77edbae2634b5f18a15b80c519cc041c7de98ea5a36c0ae98a5d92311f392f7d"
-    url = "https://github.com/JuliaBinaryWrappers/lib4ti2_jll.jl/releases/download/lib4ti2-v1.6.9+0/lib4ti2.v1.6.9.x86_64-unknown-freebsd11.1-cxx11.tar.gz"
+    sha256 = "8a97a6a3aedbd42ab63922604cb0e6268cdd8a47699b33569671935ffea7459a"
+    url = "https://github.com/JuliaBinaryWrappers/lib4ti2_jll.jl/releases/download/lib4ti2-v1.6.9+1/lib4ti2.v1.6.9.x86_64-unknown-freebsd11.1-cxx11.tar.gz"
 [[lib4ti2]]
 arch = "i686"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "6cdc940b6b2543657610bfa2a561332a5e23f0d9"
+git-tree-sha1 = "65724cbafbc08cfaa946d08830063d44097b3809"
 libc = "musl"
 os = "linux"
 
     [[lib4ti2.download]]
-    sha256 = "d3f236dcb392192a7204ae964c48ce65d48a29b49b0471ea4b1378753d31c9ad"
-    url = "https://github.com/JuliaBinaryWrappers/lib4ti2_jll.jl/releases/download/lib4ti2-v1.6.9+0/lib4ti2.v1.6.9.i686-linux-musl-cxx03.tar.gz"
+    sha256 = "760eaa777cd50d8a609b434aa55a65ec7e2a553c0f5a453ea494d616e3855949"
+    url = "https://github.com/JuliaBinaryWrappers/lib4ti2_jll.jl/releases/download/lib4ti2-v1.6.9+1/lib4ti2.v1.6.9.i686-linux-musl-cxx03.tar.gz"
